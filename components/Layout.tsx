@@ -102,6 +102,10 @@ const Layout: React.FC<PropsWithChildren<LayoutProps>> = ({ children }) => {
             <LogOut size={20} />
             <span>Sair</span>
           </button>
+          
+          <div className="text-center pt-4">
+             <span className="text-[10px] text-slate-400 font-medium">Versão 2.0</span>
+          </div>
         </div>
       </aside>
 
