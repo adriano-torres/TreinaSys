@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Turmas de Treinamento",
+  "description": "Sistema para gerenciamento de turmas, controle de SIN/JUMP e administração de vendedores com insights via IA.",
+  "requestFramePermissions": []
+}
